@@ -1,9 +1,9 @@
 - type: dates
-  title: Dates
+  title: Optimization
   url: /dates/
-#- type: categories
-#  title: Categories
-#  url: /categories/
+- type: categories
+  title: Data Visualization
+  url: /categories/
 - type: tags
-  title: Tags
+  title: Deep Learning Models
   url: /tags/
