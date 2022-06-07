@@ -3,6 +3,9 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+Industrial engineer graduated as a High Honored student in the 1st place and holding a Master of Science degree in Big Data Analytics. 
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+Currently working in a consulting firm as a data scientist in Madrid. Previously, had two-year of hands-on experience in DWH and BI applications development, and almost two-year internship experience in data science and business analytics in banking, automotive, retail and manufacturing sectors. 
+
+
+
