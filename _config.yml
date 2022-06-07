@@ -2,10 +2,10 @@
 title: Belce Kaya
 description: Industrial Engineer / MSc Big Data Analytics / Data Scientist
 url: https://belcekaya.github.io/portfolio/
-avatar: /avatar.jpeg 
+avatar: /images/Picture1.jpg 
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /images/background2.jpg
 
 # Gems
 plugins:
