@@ -1,8 +1,3 @@
----
-layout: archive-dates
-permalink: /dates/
-title: Optimization projects
-
 ## Portfolio
 
 ---
@@ -20,8 +15,6 @@ title: Optimization projects
 - [Regression with Gaussian Processes](/Notebooks/GPs.md)
 - [Kernel Methods](/Notebooks/kernels.html)
 
-
----
 
 ---
 
