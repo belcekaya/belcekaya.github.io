@@ -1,8 +1,7 @@
 ---
 layout: archive-dates
 permalink: /dates/
-title: Dates
----
+title: Optimization projects
 
 ## Portfolio
 
@@ -23,3 +22,6 @@ title: Dates
 
 
 ---
+
+---
+
