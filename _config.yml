@@ -22,10 +22,8 @@ exclude:
   - .jekyll-cache
   - Gemfile
   - Gemfile.lock
-  - LICENSE.md
   - README.md
   - scripts/
-  - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
 linkedin:
@@ -51,9 +49,3 @@ sass:
 
 # Replace this value and uncomment to enable Disqus
 # disqus: xxxxxx
-
-# Specify the author for blog posts
-author:
-  name: Belce Kaya
-  url: https://github.com/belcekaya/
-  email: belcekaya@gmail.com
