@@ -1,6 +1,10 @@
 ---
 layout: archive-taxonomies
 permalink: /categories/
-title: Categories
 type: categories
+
+title: Shiny App
+
+- [ShinyApp-Crime Analysis](https://l6l43h-belce.shinyapps.io/crime_analysis/)
+
 ---
