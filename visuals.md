@@ -13,9 +13,7 @@ In this shiny app, the UK crime data was analyzed for Greater London and Manches
 
 ## Network Analysis with Gephi
 
-The importance of the Internet as a tool for getting information and debating topics has significantly grown during the last years. One of the main reasons for this incredible growth is virtual social media such as Twitter, which have revolutionised the way in which content is delivered. 
-
-In this project a tool called t-hoarder_kit has been used in Linux virtual machine in order to collect a set of twitter accounts and tweets, that have later been processed in Gephi to obtain the declared and dynamic network. All the accounts examined are tweeting related with Global warming.
+In this project a tool called `t-hoarder_kit` has been used in `Linux virtual machine` in order to collect a set of twitter accounts and tweets, that have later been processed in `Gephi` to obtain the declared and dynamic network. All the accounts examined are tweeting related with Climate change.
 The goal of this project is to study the main features of both graphs and identify those users who publish or spread content.
 
 - First, the declared network of twitter accounts has been visualized:
