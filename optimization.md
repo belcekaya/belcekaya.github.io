@@ -4,16 +4,16 @@ permalink: /optimization/
 title: Portfolio
 ---
 
-This is an example...
+In this tab, there are some interesting projects related with optimization that I had studied.
 
-- [Pyspark Applications](/Notebooks/PySpark_Applications.md)
+## Project - 1
+In this project, some optimization methods that are commonly used in machine learning algorithms were implemented both using the `scipy.optimize` and from scratch!
 - [Implementation of some machine learning optimization methods](/Notebooks/Optimization.md)
-- [Kaggle ML Prediction Competition](/Notebooks/Kaggle_Comp.html)
 
-<img src="/images/ml_image.png?raw=true"/>
+## Project - 2
+As the covid-19 has some challanges to supply the vaccines, therefore, in this study, a covid-19 vaccine supply chain problem has been created and solved in Pyomo.
+- [Vaccine Supply Chain Optimization Problem for Covid19 Pandemic Crisis](/Notebooks/Vaccine_supply_chain.html)
 
-- [LeNet 5 CNN Network](/Notebooks/LeNet5_CNN.html)
-- [ShinyApp-Crime Analysis](https://l6l43h-belce.shinyapps.io/crime_analysis/)
-- [Regression with Gaussian Processes](/Notebooks/GPs.md)
-- [Kernel Methods](/Notebooks/kernels.html)
-
+## Project - 3
+This project was done in my Bachelor of Science degree. Basically the project is about the scheduling of molding production on press lines of automative factory. For detailed information click the following link:
+- [Scheduling Optimization of Molding Production on Press Lines](/Notebooks/scheduling_opt.pdf) 
