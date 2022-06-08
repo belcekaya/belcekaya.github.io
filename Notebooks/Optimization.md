@@ -1,3 +1,8 @@
+---
+layout: archive-dates
+title: PySpark Applications
+---
+
 ## Project Description:
 
 In this project, some optimization method will be studied such as Gradient, newton, quasi-newton etc. First the random data will be generated from a predefined linear regression model where $5\leq \beta_i \leq5$ and $i = 0,...,K$ with K = 120 independent variables $X = (X_1,X_2,...,X_K)$ and n = 1000 observations.
