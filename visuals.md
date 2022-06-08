@@ -6,7 +6,7 @@ title: Portfolio of Data visualization
 
 Here, I have placed several projects that I worked on for reporting the significant data insights by using various data visualization software.
 
-<img src="/images/gephi1.png?raw=true"/>
+<img src="/images/ml_image.png?raw=true"/>
 
 ## Crime Analysis with Shiny App
 
