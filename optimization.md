@@ -1,5 +1,5 @@
 ---
-layout: archive-dates
+layout: default-home-header
 permalink: /optimization/
 title: Portfolio
 ---
