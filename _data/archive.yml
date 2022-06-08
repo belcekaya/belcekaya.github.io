@@ -1,9 +1,12 @@
-- type: dates
+- type: optimization
   title: Optimization
-  url: /dates/
-- type: categories
+  url: /optimization/
+- type: visuals
   title: Data Visualization
-  url: /categories/
-- type: tags
-  title: Deep Learning Models
-  url: /tags/
+  url: /visuals/
+- type: mldl
+  title: ML & DL Models
+  url: /mldl/
+- type: timeseries
+  title: Time Series
+  url: /timeseries/
