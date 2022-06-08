@@ -1,6 +1,6 @@
 ---
 layout: archive-dates
-title: PySpark Applications
+title: Implementation of some machine learning optimization methods
 ---
 
 ## Project Description:
