@@ -1,5 +1,5 @@
 ---
-layout: tabs
+layout: archive-dates
 title: PySpark Applications
 ---
 
