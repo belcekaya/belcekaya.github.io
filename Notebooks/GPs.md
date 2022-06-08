@@ -82,7 +82,7 @@ import matplotlib.pyplot as plt
     Successfully installed GPy-1.10.0 paramz-0.9.5
     
 
-## Exercises on the training set
+## Operations on the training set
 
 #### a) Building a GP regression model based on a RBF kernel with ARD, in which each input dimension is weighted with a different lengthscale.
 
@@ -159,7 +159,7 @@ The dissimilarities between both results are significant and they lay on the par
 
 
 
-## Exercises on the test set
+## Operations on the test set
 
 #### Computing the test mean absolute error error and the test mean square error (MSE)  using the GP posterior mean and the optimized hyperparameters. Comparing the results with Tables 6 and 7 in this [paper](https://www.sciencedirect.com/science/article/pii/S037877881200151X).
 
