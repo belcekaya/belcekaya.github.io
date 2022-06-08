@@ -1,14 +1,8 @@
 ---
 layout: archive-dates
 permalink: /dates/
-title: Dates
+title: Portfolio
 ---
-
-## Portfolio
-
----
-
-### Project Links
 
 - [Pyspark Applications](/Notebooks/PySpark_Applications.md)
 - [Implementation of some machine learning optimization methods](/Notebooks/Optimization.md)
@@ -21,6 +15,4 @@ title: Dates
 - [Regression with Gaussian Processes](/Notebooks/GPs.md)
 - [Kernel Methods](/Notebooks/kernels.html)
 
-
----
 
