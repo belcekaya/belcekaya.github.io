@@ -1,7 +1,7 @@
 ---
-layout: page
-permalink: /categories/
-type: categories
+layout: default-home-header
+permalink: /visuals/
+type: visuals
 
 title: Shiny App
 ---
