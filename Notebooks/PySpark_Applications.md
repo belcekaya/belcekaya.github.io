@@ -1,5 +1,5 @@
 ---
-layout: default-home-header
+layout: archive-dates
 title: PySpark Applications
 ---
 
