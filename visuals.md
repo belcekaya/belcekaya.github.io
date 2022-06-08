@@ -6,6 +6,8 @@ title: Portfolio of Data visualization
 
 Here, I have placed several projects that I worked on for reporting the significant data insights by using various data visualization software.
 
+<img src="/images/gephi1.png?raw=true"/>
+
 ## Crime Analysis with Shiny App
 
 In this shiny app, the UK crime data was analyzed for Greater London and Manchester areas and significant insigths from the data was shown with interactive visuals. 
@@ -18,7 +20,7 @@ The goal of this project is to study the main features of both graphs and identi
 
 - First, the declared network of twitter accounts has been visualized:
 
-<img src="images/gephi1.png?raw=true"/>
+<img src="/images/gephi1.png?raw=true"/>
 
 - Second, the dynamic network of the tweets related with global warming has been visualized, both retweets and mentions on Twitter:
 
