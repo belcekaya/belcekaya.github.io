@@ -20,10 +20,10 @@ The goal of this project is to study the main features of both graphs and identi
 
 - First, the declared network of twitter accounts has been visualized
 
-<img src="/images/ml_image.png?raw=true"/>
+<img src="/images/gephi_declared.png?raw=true"/>
 
 - Second, the dynamic network of the tweets related with global warming has been visualized, both retweets and mentions on Twitter
 
-<img src="/images/gephi2.png?raw=true"/>
+<img src="/images/gephi_dynamic.png?raw=true"/>
 
 ## Some Dashboards in PowerBI
