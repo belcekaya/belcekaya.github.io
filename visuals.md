@@ -1,8 +1,6 @@
 ---
 layout: archive-dates
 permalink: /visuals/
-type: visuals
-
 title: Portfolio of Data visualization
 ---
 
