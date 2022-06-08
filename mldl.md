@@ -1,6 +1,6 @@
 ---
 layout: archive-dates
-permalink: /optimization/
+permalink: /mldl/
 title: Portfolio of ML & DL Projects
 ---
 
