@@ -1,5 +1,5 @@
 ---
-layout: archive-dates
+layout: tabs
 permalink: /dates/
 title: PySpark Applications
 ---
