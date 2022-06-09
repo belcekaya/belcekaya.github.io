@@ -18,6 +18,8 @@ In the following links, you can check out some interesting Machine learning and 
 ## Project - 3
 - [Regression with Gaussian Processes](/Notebooks/GPs.md)
 
+<img src="/images/gephi_declared.png?raw=true"/> 
+
 ## Project - 4
 - [Kernel Methods](/Notebooks/kernels.html)
 
