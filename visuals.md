@@ -20,7 +20,7 @@ The goal of this project is to study the main features of both graphs and identi
 
 - First, the declared network of twitter accounts has been visualized
 
-<img src="/images/ml_imagee.png?raw=true"/>
+![Declared](/images/gephi_dynamic.png?raw=true "Optional Title")
 
 - Second, the dynamic network of the tweets related with global warming has been visualized, both retweets and mentions on Twitter
 
