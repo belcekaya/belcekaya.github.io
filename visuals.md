@@ -24,5 +24,6 @@ The goal of this project is to study the main features of both graphs and identi
 
 - Second, the dynamic network of the tweets related with global warming has been visualized, both retweets and mentions on Twitter
 
+<img src="/images/gephi2.png?raw=true"/>
 
 ## Some Dashboards in PowerBI
