@@ -13,7 +13,7 @@ In the following links, you can check out some interesting Machine learning and 
 ## Project - 2
 - [Kaggle ML Prediction Competition](/Notebooks/Kaggle_Comp.html)
 
-<img src="/images/ml_image.png?raw=true"/>
+<img src="/images/ml1.png?raw=true"/>
 
 ## Project - 3
 - [Regression with Gaussian Processes](/Notebooks/GPs.md)
