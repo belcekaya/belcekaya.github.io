@@ -1,6 +1,7 @@
 ---
 layout: archive-dates
 title: PySpark Applications
+toc: true
 ---
 
 ## Project Description
