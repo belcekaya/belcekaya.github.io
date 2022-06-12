@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Portfolio of Optimization Projects
+title: Welcome page
+toc: true
 ---
+Welcome to my portfolio! You can find some interesting works I have done!{: .message }
+
 
 In this tab, there are some interesting projects related with optimization that I had studied.
