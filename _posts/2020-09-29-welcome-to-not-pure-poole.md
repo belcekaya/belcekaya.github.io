@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to Not Pure Poole
+toc: true
 ---
 Welcome to **Not Pure Poole**! This is an example post to show the layout.
 {: .message }
