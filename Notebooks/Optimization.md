@@ -1,6 +1,7 @@
 ---
 layout: archive-dates
 title: Implementation of some machine learning optimization methods
+toc: true
 ---
 
 ## Project Description:
