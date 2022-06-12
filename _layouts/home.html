@@ -4,8 +4,7 @@ layout: default
 
 {% include home-header.html %}
 
-<article class="page">
-  {% for post in paginator.posts %}
-  <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
-</article>
+<div class="page">
+  <h1 class="page-title">404: Page not found</h1>
+  <p class="lead">Sorry, the URL that you are searching may be pointing to something that doesn't exist. <a href="{{ "/" | relative_url }}">Head back home</a> to try finding it again.</p>
+</div>
