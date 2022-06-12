@@ -3,8 +3,6 @@ layout: post
 title: Welcome to Not Pure Poole
 toc: true
 ---
-Welcome to **Not Pure Poole**! This is an example post to show the layout.
-{: .message }
 
 First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
 
