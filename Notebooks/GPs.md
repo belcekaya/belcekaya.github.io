@@ -1,6 +1,7 @@
 ---
 layout: archive-dates
 title: Regression with Gaussian Processes
+toc: true
 ---
 
 The aim of this project is to solve a real data problem using the Gaussian Process implementation of GPy. The documentation of GPy is avaialable from the [SheffieldML github page](https://github.com/SheffieldML/GPy) or from [this page](http://gpy.readthedocs.org/en/latest/). 
