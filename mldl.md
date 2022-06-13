@@ -7,6 +7,7 @@ title: Portfolio of Machine Learning(ML), Deep Learning(DL) and Time Series(TS) 
 In the following links, you can check out some interesting Machine learning, Deep Learning and Time series forecasting models I had worked with!
 
 ## ML & DL Models
+-------------
 
 ### LeNet-5 CNN Network Implementation
 
@@ -42,6 +43,7 @@ In this study, five different schema were implemented for face recognition class
 
 
 ## Time Series Forecasting Statistical & ML Models
+-------------
 
 Here, I have placed some projects about time series forecasting with statistical and Machine learning models.
 
