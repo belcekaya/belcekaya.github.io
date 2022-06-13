@@ -9,8 +9,11 @@ Here, I have placed several projects that I worked on for reporting the signific
 ## Crime Analysis with Shiny App
 
 In this shiny app, the UK crime data was analyzed for Greater London and Manchester areas and significant insigths from the data was shown with interactive visuals.
-
+To show the app you can click the following link:
 - [ShinyApp-Crime Analysis](https://l6l43h-belce.shinyapps.io/crime_analysis/)
+
+To see the codes, you can go to the related repository with the following link:
+- [ShinyApp-Repository](https://github.com/belcekaya/crimes_shinyapp)
 
 ## Network Analysis with Gephi
 
