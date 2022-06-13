@@ -28,6 +28,6 @@ The goal of this project is to study the main features of both graphs and identi
 
 ## Some Dashboards in PowerBI
 
-I worked on many dashboard in PowerBI, developed the tabular models in analysis services. In the visual below, you can see small sections taken from some dashboards.
+I worked on many dashboards in PowerBI, developed the tabular models in analysis services. In the visual below, you can see small sections taken from some dashboards.
 
 <img src="/images/pbi.png?raw=true"/>
