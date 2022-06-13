@@ -14,3 +14,7 @@ models in R. The data used in this project was obtained from the sensors placed 
 - [Hourly Traffic Intensity Forecasting in Madrid](Notebooks/hourly_traffic_pred.html)
 
 ## Project - 2
+
+In this study, the annual exports of Turkey has been analyzed and exports has been forecasted by statistical tools such as ETS.
+
+- [Annual exports of Turkey](Notebooks/turkey_annual_exports.md)
