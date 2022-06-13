@@ -265,7 +265,7 @@ In the 2nd step, from this collection, all genres inside of array flatted and ea
 
 - Step-1 / Finding the most movies released year:
 
-```json
+```
   db.dump_all.aggregate([ 
       {$match: {"Movies.Details.Year": {$exists: true}, "Movies.Details.Genres":{$exists: true}}},
       {$project:{Movies:1,_id:0}},{$unwind: "$Movies"},
@@ -278,7 +278,7 @@ In the 2nd step, from this collection, all genres inside of array flatted and ea
  
 - Step2 / Writing the most released year genres to another collection which is called `most_released_year_genres`.
 
-```json
+```
 db.most_released_year_genres.aggregate([
     {$project: {genres:1}},
     {$unwind:"$genres"},
@@ -304,7 +304,7 @@ After match, in project step, first the movies were selected and then unwind the
 Then the data grouped by id which is Director name, and the records sum belong to the same director which represent their number of movies, movies’ average budget and movies’ average gross. 
 After that null records were eliminated by using match function. Finally, the data sorted alphabetically.  
 
-```json
+```
   db.dump_all.aggregate(
       {$match: {"Movies.Details.Director.Name":{$exists: true},
                "Movies.Details.Budget":{$exists: true},
