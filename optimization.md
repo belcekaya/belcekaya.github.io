@@ -8,7 +8,7 @@ In this tab, there are some interesting projects related with optimization that 
 
 ## Project - 1
 In this project, some optimization methods that are commonly used in machine learning algorithms were implemented both using the `scipy.optimize` and from scratch!
-- [Implementation of some machine learning optimization methods](/Notebooks/Optimization.md)
+- [Implementation of some machine learning optimization methods](/Notebooks/optimization_ml.html)
 
 ## Project - 2
 As the covid-19 has some challanges to supply the vaccines, therefore, in this study, a covid-19 vaccine supply chain problem has been created and solved in Pyomo.
