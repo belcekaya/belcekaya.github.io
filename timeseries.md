@@ -2,7 +2,6 @@
 layout: archive-dates
 permalink: /timeseries/
 title: Portfolio of Time Series Projects
-toc: true
 ---
 
 Here, I have placed some projects about time series forecasting with statistical and Machine learning models.
