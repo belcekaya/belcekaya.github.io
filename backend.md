@@ -14,4 +14,4 @@ In this link below,  the UK crime data was analyzed for Greater London and Manch
 
 In this study, many data manipulations were made for feature engineering in the dataset with many features. After preparing the data for ML, the energy was predicted with different features and the results were compared. 
 
-- [PySpark Applications in Databricks](/Notebooks/ML with Spark.html)
+- [PySpark Applications in Databricks](/Notebooks/ML_with_Spark.html)
