@@ -10,6 +10,3 @@
 - type: backend
   title: Data Manipulations
   url: /backend/
-- type: timeseries
-  title: Time Series
-  url: /timeseries/
