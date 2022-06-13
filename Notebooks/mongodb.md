@@ -232,9 +232,9 @@ in total, one per month. On the below, there is an example JSON file:
 
 - Query of getting only the Spanish clients *without* second surname from the data:
 
-
+```mongodb
    db.dump_all.find({"contract.country":"Spain","Client.Surname.1":{$exists:0}}).pretty()
-
+```
 
 - Output:
 
