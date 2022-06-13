@@ -294,7 +294,7 @@ This resulted the number of Drama with 66.
 
 <img src="/images/mongo3.png?raw=true"/>
  
- ### Forth Query
+### Forth Query
  
 - Query of how many films has directed and average budget and gross for each director:
 
