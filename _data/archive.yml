@@ -1,12 +1,12 @@
+- type: mldl
+  title: ML,DL&TS Models
+  url: /mldl/
 - type: optimization
   title: Optimization
   url: /optimization/
 - type: visuals
   title: Data Visualization
   url: /visuals/
-- type: mldl
-  title: ML,DL&TS Models
-  url: /mldl/
 - type: backend
   title: Data Manipulations
   url: /backend/
