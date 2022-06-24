@@ -7,7 +7,6 @@ paginate: 5
 permalink: pretty
 cover_image: /images/background2.jpg
 
-# Gems
 plugins:
   - jekyll-gist
   - jekyll-paginate
@@ -25,7 +24,6 @@ exclude:
   - README.md
   - scripts/
 
-# Optimize Jekyl SEO Tag
 linkedin:
   username: belcekaya
   card: summary
