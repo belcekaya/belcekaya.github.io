@@ -1,5 +1,5 @@
 - type: mldl
-  title: ML,DL&TS Models
+  title: ML,DL,TS&NLP Models
   url: /mldl/
 - type: optimization
   title: Optimization
@@ -10,6 +10,3 @@
 - type: backend
   title: Data Manipulations
   url: /backend/
-- type: nlp
-  title: NLP
-  url: /nlp/
