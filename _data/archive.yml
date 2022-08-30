@@ -10,3 +10,6 @@
 - type: backend
   title: Data Manipulations
   url: /backend/
+- type: nlp
+  title: NLP
+  url: /nlp/
