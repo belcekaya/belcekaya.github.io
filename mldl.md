@@ -1,7 +1,7 @@
 ---
 layout: archive-dates
 permalink: /mldl/
-title: Portfolio of Machine Learning(ML), Deep Learning(DL) and Time Series(TS) Projects
+title: Portfolio of Machine Learning(ML), Deep Learning(DL), Time Series(TS) and NLP Projects
 ---
 
 In the following links, you can check out some interesting Machine learning, Deep Learning and Time series forecasting models I had worked with!
@@ -58,3 +58,9 @@ In this project, the traffic insensity level of the most crowded district of Mad
 In this study, the annual exports of Turkey has been analyzed and exports has been forecasted by statistical tools such as ETS.
 
 - [Annual exports of Turkey](Notebooks/turkey_annual_exports.html)
+
+## Natural Language Processing Topic Model Prediction
+
+In the following link, you can check out the project related with topic models prediction in python!
+
+- [Topic models Prediction](/Notebooks/Topic_models.html)
