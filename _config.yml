@@ -1,6 +1,10 @@
 # Setup
 title: Belce Kaya
-description: Industrial Engineer / MSc Big Data Analytics 
+description: |
+  Industrial Engineer / MSc Big Data Analytics
+  
+  **Data Scientist**
+  
 url: https://belcekaya.github.io
 avatar: /images/Picture1.jpg 
 paginate: 5
@@ -39,11 +43,6 @@ lang: en
 sass:
   sass_dir: _sass
   style: :compressed
-
-# Options
-
-# Google analytics tracking
-# google_analytics: UA-000000-0
 
 # Enabling disqus
 # disqus: xxxxxx
