@@ -7,7 +7,8 @@ Industrial engineer graduated as a High Honored student in the 1st place and hol
 
 <img src="/images/educ.png?raw=true"/>
 
-Currently working in a consulting firm as a data scientist in Madrid. Previously, had two-year of hands-on experience in DWH and BI applications development, and almost two-year internship experience in data science and business analytics in banking, automotive, retail and manufacturing sectors. 
+Data Scientist currently employed at Mercedes Benz AG Aftersales team. Equipped with three years of hands-on experience in diverse aspects of Data Science and BI application development and nearly two years of internship experience in data science and business analytics across multiple sectors. Possesses strong educational background in Statistics, Operational Research, Data Modelling, Data architecture, and Computer Programming Native Turkish speaker with fluency in
+English and Spanish.
 
 
 
