@@ -9,6 +9,12 @@ In the following links, you can check out some interesting Machine learning, Dee
 ## ML & DL Models
 -------------
 
+### Master of Science Thesis 
+
+This study concentrates on predicting regional traffic density through the analysis of sensor data from Madrid's URB and M30 roads at 15-minute intervals in 21 districts of Madrid city between January 2022 and June 2022. The pre-processed data was inputted into deep learning models as numerical time-distributed series and generated hourly traffic intensity map images. Using CNN and LSTM structures within an encoder-decoder model, the study aimed for sequence-to-sequence prediction, with 24-time step looking back and 4-time step forecasting range. The models outperformed the baseline, with spatial correlation enhancing accuracy, and a Bi-LSTM encoder-decoder model further optimized predictions.
+
+- [Deep Learning Models to Predict the Traffic Intensity in Madrid city](/Notebooks/master_thesis.pdf)
+
 ### LeNet-5 CNN Network Implementation
 
 The architecture of the LeNet-5 Network can be seen on the following visual:
